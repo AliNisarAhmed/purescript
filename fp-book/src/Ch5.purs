@@ -1,4 +1,38 @@
-module Ch5 where
+module Ch5
+  ( (!!)
+  , (#)
+  , ($)
+  , apply
+  , applyFlipped
+  , catMaybes
+  , concat
+  , const
+  , drop
+  , dropEnd
+  , dropWhile
+  , filter
+  , findIndex
+  , findLastIndex
+  , flip
+  , head
+  , index
+  , init
+  , last
+  , length
+  , null
+  , range
+  , reverse
+  , singleton
+  , snoc
+  , tail
+  , take
+  , takeEnd
+  , takeWhile
+  , test
+  , uncons
+  , unzip
+  )
+  where
 
 import Prelude
 
