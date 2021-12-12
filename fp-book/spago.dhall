@@ -14,9 +14,11 @@ to generate this file without the comments in this block.
 , dependencies =
   [ "console"
   , "effect"
+  , "integers"
   , "lists"
   , "maybe"
   , "newtype"
+  , "numbers"
   , "prelude"
   , "psci-support"
   , "strings"
